@@ -2,7 +2,6 @@ import { Alchemy, Network } from 'alchemy-sdk';
 import { useEffect, useState } from 'react';
 import {ethers} from 'ethers';
 
-
 import './App.css';
 
 // Refer to the README doc for more information about using API
